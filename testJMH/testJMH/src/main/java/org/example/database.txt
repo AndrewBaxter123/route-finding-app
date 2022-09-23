@@ -1,0 +1,23 @@
+Room, Cezanne,41,643,345
+Room, Van Gogh,43,581,370
+Room, Cezanne+Degas+Monet,44,544,370
+Room, Constable+Turner+Stubbs,34,630,272
+Room, David+Fragonard+Vernet,33,630,194
+Room, 17th-Century Italian Paintings,32,544,186
+Room, French Painting 1600-1700,29,327,194
+Room, Joachim Beuckelaer,15,240,194
+Room, Venice,9,227,272
+Room, The Netherlands,14,327,235
+Room, Spain,30,435,194
+Room, Rubens,18,240,112
+Room, Dutch Landscapes,19,197,140
+Link,41,34,50
+Link,34,33,30
+Link,33,32,50
+Link,32,30,55
+Link,30,29,70
+Link,41,43,35
+Link,43,44,20
+Link,44,32,10
+Link,29,15,75
+Link,18,19,20

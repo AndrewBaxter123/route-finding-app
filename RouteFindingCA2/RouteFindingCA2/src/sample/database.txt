@@ -1,0 +1,132 @@
+Room, Cezanne,41,643,345
+Room, Van Gogh,43,581,370
+Room, Cezanne+Degas+Monet,44,544,370
+Room, Constable+Turner+Stubbs,34,630,272
+Room, David+Fragonard+Vernet,33,630,194
+Room, 17th-Century Italian Paintings,32,544,186
+Room, French Painting 1600-1700,29,327,194
+Room, Joachim Beuckelaer,15,240,194
+Room, Venice,9,227,272
+Room, The Netherlands,14,327,235
+Room, Spain,30,435,194
+Room, Rubens,18,240,112
+Room, Dutch Landscapes,19,197,140
+Room, The Credit Suisse Exhibition 1,1,402,378
+Room, The Credit Suisse Exhibition 2,2,360,357
+Room, The Credit Suisse Exhibition 4,4,325,357
+Room, The Credit Suisse Exhibition 5,5,325,310
+Room, The Credit Suisse Exhibition 6,6,288,360
+Room, The Credit Suisse Exhibition 7,7,260,372
+Room, The Credit Suisse Exhibition 8,8,225,346
+Room, Venice 1530 to 1600,9,227,270
+Room, The sacred and profane in 16th century Italian art,10,284,272
+Room, Veroneses Four Allegories of Love,11,327,272
+Room, Northern Italian Portraiture,12,366,272
+Room, Cranach the Elder and Huber and Seisenegger,16,205,207
+Room, Altdorfer and Rottenhammer and Wertinger,17,206,183
+Room, closed room,17a,206,164
+Room, different view of Flanders,20,197,113
+Room, Van Dyck,21,197,82
+Room, Rembrandt,22,284,84
+Room, Dutch portraiture,23,285,113
+Room, International ambitions,24,287,142
+Room, a new art for a new nation 2,25,327,141
+Room, Brueghel the Elder,26,270,164
+Room, de Hooch and Saenredam,27,299,164
+Room, a new art for a new nation 2,28,327,164
+Room, room closed,31,437,155
+Room, Hogarth and British Painting,35,587,271
+Room, Claude and Turner,36,544,271
+Room, The Grand Tour,37,544,231
+Room, Canaletto and Guardi,38,499,271
+Room, Canaletto and Pittoni and Tiepolo,39,469,271
+Room, 18th century painting in Europe,40,544,312
+Room, Constable Corot and Ingres,45,508,370
+Room, Gainsborough's Blue Boy,46,469,377
+Room, Italy 1250-1350,51,94,262
+Room, Siena 1300-1450,52,101,296
+Room, Florence and Beyond 1440-1470,53,101,322
+Room, Mantegna and Crivelli,54,101,352
+Room, Venice and the Veneto 1460-1510,55,101,382
+Room, Venice after 1500,56,97,406
+Room, Ferrara and Bologna,57,62,392
+Room, Botticelli and Filipino Lippi,58,62,351
+Room, Florence 1460-1500,59,62,311
+Room, Florentine Altarpieces about 1350-1460,60,62,257
+Room, Central Italy 1480-1520,61,25,260
+Room, Cologne and north-western Germany,62,25,294
+Room, 15th century Netherlands painting,63,25,329
+Room, Beyond the Netherlands,64,27,356
+Room, Southern Germany and Austria,65,29,378
+Room, Leonardo da Vinci at the National Gallery,66,31,399
+Link,1,2,10
+Link,2,4,10
+Link,4,5,9
+Link,4,6,10
+Link,6,7,10
+Link,7,8,10
+Link,8,9,10
+Link,9,10,10
+Link,10,11,10
+Link,11,5,10
+Link,11,14,10
+Link,11,12,5
+Link,14,29,15
+Link,41,34,20
+Link,34,33,20
+Link,33,32,200
+Link,32,30,15
+Link,30,29,25
+Link,41,43,25
+Link,43,44,20
+Link,29,15,25
+Link,15,16,15
+Link,15,17,16
+Link,16,17,5
+Link,17,17a,2
+Link,18,19,9
+Link,18,24,9
+Link,18,26,15
+Link,19,20,10
+Link,20,21,10
+Link,21,18,15
+Link,21,22,15
+Link,22,23,5
+Link,23,24,5
+Link,24,25,4
+Link,25,28,4
+Link,28,27,4
+Link,27,26,4
+Link,28,29,7
+Link,30,31,5
+Link,30,32,15
+Link,32,37,11
+Link,37,36,10
+Link,36,40,10
+Link,36,35,12
+Link,36,38,11
+Link,38,39,8
+Link,35,34,8
+Link,40,44,12
+Link,44,45,8
+Link,45,46,10
+Link,9,51,40
+Link,51,52,10
+Link,52,53,5
+Link,53,54,5
+Link,53,59,10
+Link,54,55,5
+Link,55,56,5
+Link,55,57,10
+Link,51,60,5
+Link,60,59,15
+Link,59,58,8
+Link,58,57,8
+Link,60,61,5
+Link,61,62,5
+Link,62,63,5
+Link,63,64,5
+Link,64,65,5
+Link,65,66,5
+Link,65,57,10
+Link,63,59,10
